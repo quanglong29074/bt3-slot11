@@ -1,0 +1,8 @@
+E:\T2210A\ConsoleApp1\bt1\bin\Debug\bt1.exe.config
+E:\T2210A\ConsoleApp1\bt1\bin\Debug\bt1.exe
+E:\T2210A\ConsoleApp1\bt1\bin\Debug\bt1.pdb
+E:\T2210A\ConsoleApp1\bt1\obj\Debug\bt1.csproj.AssemblyReference.cache
+E:\T2210A\ConsoleApp1\bt1\obj\Debug\bt1.csproj.SuggestedBindingRedirects.cache
+E:\T2210A\ConsoleApp1\bt1\obj\Debug\bt1.csproj.CoreCompileInputs.cache
+E:\T2210A\ConsoleApp1\bt1\obj\Debug\bt1.exe
+E:\T2210A\ConsoleApp1\bt1\obj\Debug\bt1.pdb

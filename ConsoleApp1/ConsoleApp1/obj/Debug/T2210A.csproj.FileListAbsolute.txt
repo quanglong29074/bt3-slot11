@@ -1,0 +1,8 @@
+E:\T2210A\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\T2210A\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\T2210A\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\T2210A\ConsoleApp1\ConsoleApp1\obj\Debug\T2210A.csproj.AssemblyReference.cache
+E:\T2210A\ConsoleApp1\ConsoleApp1\obj\Debug\T2210A.csproj.SuggestedBindingRedirects.cache
+E:\T2210A\ConsoleApp1\ConsoleApp1\obj\Debug\T2210A.csproj.CoreCompileInputs.cache
+E:\T2210A\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\T2210A\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
